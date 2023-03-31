@@ -1,0 +1,6 @@
+Zack 20
+abcd 40
+trial 500
+abcde 20
+asd 0
+Guest 10
