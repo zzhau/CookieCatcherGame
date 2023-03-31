@@ -1,3 +1,1 @@
-# COMP16321-Labs
-
-This is the repository that you submit your labs to.
+Created a catch the falling cookie game using Python and the Tkinter Library. 
